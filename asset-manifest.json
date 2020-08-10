@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gimmari/movie_app/static/css/main.58338e96.chunk.css",
+    "main.js": "/gimmari/movie_app/static/js/main.35060480.chunk.js",
+    "main.js.map": "/gimmari/movie_app/static/js/main.35060480.chunk.js.map",
+    "runtime-main.js": "/gimmari/movie_app/static/js/runtime-main.5fab35ef.js",
+    "runtime-main.js.map": "/gimmari/movie_app/static/js/runtime-main.5fab35ef.js.map",
+    "static/js/2.670a5eaa.chunk.js": "/gimmari/movie_app/static/js/2.670a5eaa.chunk.js",
+    "static/js/2.670a5eaa.chunk.js.map": "/gimmari/movie_app/static/js/2.670a5eaa.chunk.js.map",
+    "index.html": "/gimmari/movie_app/index.html",
+    "precache-manifest.eee7cb87bc70f526c79d937910ab7056.js": "/gimmari/movie_app/precache-manifest.eee7cb87bc70f526c79d937910ab7056.js",
+    "service-worker.js": "/gimmari/movie_app/service-worker.js",
+    "static/css/main.58338e96.chunk.css.map": "/gimmari/movie_app/static/css/main.58338e96.chunk.css.map",
+    "static/js/2.670a5eaa.chunk.js.LICENSE.txt": "/gimmari/movie_app/static/js/2.670a5eaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fab35ef.js",
+    "static/js/2.670a5eaa.chunk.js",
+    "static/css/main.58338e96.chunk.css",
+    "static/js/main.35060480.chunk.js"
+  ]
+}
